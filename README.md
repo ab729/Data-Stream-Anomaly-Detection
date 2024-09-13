@@ -3,7 +3,7 @@
 ## 1. Introduction
 
 ### 1.1 Purpose
-The purpose of this repository is to provide a detailed overview of the approach developed for Efficient Data Stream Anomaly Detection. This document covers the objectives, design, implementation, testing, and deployment processes associated with the software.
+The purpose of this repository is to provide a detailed overview of the approach developed for Efficient Data Stream Anomaly Detection. This document covers the objectives, design, implementation and testing associated with the software.
 
 ### 1.2 Scope
 This report covers the following aspects:
