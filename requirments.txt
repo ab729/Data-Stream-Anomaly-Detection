@@ -1,0 +1,9 @@
+This program needs the listed below modules to run, basiclly some of theese modules are bulit in python but in case of using a virtual environment. 
+installation using pip or conda is essintial !
+
+1. numpy
+2. pandas
+3. sci kit learn 
+
+use this command to download them, 
+"pip install numpy pandas scikit-learn"
