@@ -66,6 +66,7 @@ The testing strategy involved applying the script to an external CSV dataset con
 
 ### 5.2 Test Cases and Results
 The test results for both algorithms are recorded and detailed below.
+![difrences](https://github.com/user-attachments/assets/cbddbd08-6ec7-4e91-a02a-feb3c5b832a2)
 
 ## 6. Conclusion
 
